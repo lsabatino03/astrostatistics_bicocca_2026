@@ -71,7 +71,8 @@ There are many **other good resources** in astrostatistics, here is a partial li
     - ["Probability calculus for inference"](https://arxiv.org/abs/1205.4446) [arXiv:1205.4446]
     - ["Using Markov Chain Monte Carlo"](https://arxiv.org/abs/1710.06068) [arXiv:1710.06068]
     - ["Products of multivariate Gaussians in Bayesian inferences"](https://arxiv.org/abs/2005.14199) [arXiv:2005.14199]
- -  ["Practical Guidance for Bayesian Inference in Astronomy"](https://arxiv.org/abs/2302.04703), Eadie et al., 2023.
+ - [Bayesian inference: More than Bayes's theorem](https://arxiv.org/abs/2406.18905) Loredo and Wolpert, 2024 [arXiv:2005.14199]
+ -  ["Practical Guidance for Bayesian Inference in Astronomy"](https://arxiv.org/abs/2302.04703), Eadie et al., 2023 [arXiv:2302.04703]
  - ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Geron, O'Reilly Media, 2019.
  - ["Machine Learning for Physics and Astronomy"](https://press.princeton.edu/books/paperback/9780691206417/machine-learning-for-physics-and-astronomy), Acquaviva, Princeton University Press, 2023.
  - ["A review of Unsupervised Learning in Astronomy"](https://arxiv.org/abs/2406.17316), S. Fotopoulou et al., 2024.
@@ -107,12 +108,11 @@ The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our schedul
 15. **2026, Apr 30, 10:30am - 12:30pm**. Room U2-05.
 16. **2026, May 04, 08:30am - 10:30am**. Room U7-15.
 17. **2026, May 07, 10:30am - 12:30pm**. Room U2-05.
-18. **2026, May 11, 08:30am - 10:30am**. Room U7-15.
-19. **2026, May 14, 10:30am - 12:30pm**. Room U2-05.
-20. **2026, May 18, 08:30am - 10:30am**. Room U7-15.
-21. **2026, May 21, 10:30am - 12:30pm**. Room U2-05.
-22. **2026, May 25, 08:30am - 10:30am**. Room U7-15  (backup slot in case we skip one).
-23. **2026, May 28, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
+18. **2026, May 14, 10:30am - 12:30pm**. Room U2-05.
+19. **2026, May 18, 08:30am - 10:30am**. Room U7-15.
+20. **2026, May 21, 10:30am - 12:30pm**. Room U2-05.
+21. **2026, May 25, 08:30am - 10:30am**. Room U7-15.
+22. **2026, May 28, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
 <!-- CALENDAR:END -->
 
 ## Exams
